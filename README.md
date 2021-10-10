@@ -1,5 +1,5 @@
 ### Hi there 👋
-## My name is Joystick and here are a few of the projects that I'm working on:
+## My name is Joystick and I like to make stuff:
 
 [MickeyDees](https://github.com/Joystick299/MickeyDees)
 
