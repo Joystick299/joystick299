@@ -5,7 +5,7 @@ I'm currently working on: [Red40](https://github.com/Joystick299/Red40)
 
 My previous project was: [MickeyDees](https://github.com/Joystick299/MickeyDees)
 
-I'm currently learking C++ and SQL!
+I'm currently learking C++!
 
 
 <!--
