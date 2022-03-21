@@ -1,7 +1,12 @@
 ### Hi there 👋
 ## My name is Joystick and I like to make stuff:
 
-[MickeyDees](https://github.com/Joystick299/MickeyDees)
+I'm currently working on: [Red40](https://github.com/Joystick299/Red40)
+
+My previous project was: [MickeyDees](https://github.com/Joystick299/MickeyDees)
+
+I'm currently learking C++ and SQL!
+
 
 <!--
 **Joystick299/joystick299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
