@@ -1,11 +1,23 @@
 ### Hi there 👋
 ## My name is Joystick and I like to make stuff:
 
-I'm currently working on: [Red40](https://github.com/Joystick299/Red40)
+I'm currently working on: 
+``` json
+{
+  "Projects" {
 
-My previous project was: [MickeyDees](https://github.com/Joystick299/MickeyDees)
+    "Red40": {
+        "https://github.com/Joystick299/Red40"
+    },
 
-I'm currently learking C++!
+    "MickeyDees": {
+        "https://github.com/Joystick299/MickeyDees"
+    }
+  }
+}
+```
+
+I'm currently learking C++, Java, and a little bit of Python!
 
 
 <!--
