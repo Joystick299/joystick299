@@ -12,12 +12,16 @@ I'm currently working on:
 
     "MickeyDees": {
         "https://github.com/Joystick299/MickeyDees"
+    },
+    
+    "Amethyst": {
+        "https://github.com/Joystick299/Amethyst"
     }
   }
 }
 ```
 
-I'm currently learking C++, Java, and a little bit of Python!
+I'm currently learking C#, C++, Java, JavaScript, and a little bit of Python!
 
 I try to make my projects open sourced because I want everyone to be able to collaborate on them.
 Feel free to post your changes and I will take a look!
