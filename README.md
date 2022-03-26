@@ -21,7 +21,7 @@ I'm currently working on:
 }
 ```
 
-I'm currently learking C#, C++, Java, JavaScript, and a little bit of Python!
+I'm currently learning C#, C++, Java, JavaScript, and a little bit of Python!
 
 I try to make my projects open sourced because I want everyone to be able to collaborate on them.
 Feel free to post your changes and I will take a look!
