@@ -19,6 +19,8 @@ I'm currently working on:
 
 I'm currently learking C++, Java, and a little bit of Python!
 
+I try to make my projects open sourced because I want everyone to be able to collaborate on them.
+Feel free to post your changes and I will take a look!
 
 <!--
 **Joystick299/joystick299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
