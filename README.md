@@ -16,6 +16,10 @@ I'm currently working on:
     
     "Amethyst": {
         "https://github.com/Joystick299/Amethyst"
+    },
+    
+    "SummerHeat": {
+        "https://github.com/SamWRX/SummerHeat"
     }
   }
 }
