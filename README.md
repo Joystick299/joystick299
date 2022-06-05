@@ -7,15 +7,15 @@ I'm currently working on:
   "Projects" {
 
     "Red40": {
-        "https://github.com/Joystick299/Red40"
+        "https://github.com/rileyrichard/Red40"
     },
 
     "MickeyDees": {
-        "https://github.com/Joystick299/MickeyDees"
+        "https://github.com/rileyrichard/MickeyDees"
     },
     
     "Amethyst": {
-        "https://github.com/Joystick299/Amethyst"
+        "https://github.com/rileyrichard/Amethyst"
     },
     
     "SummerHeat": {
