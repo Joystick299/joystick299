@@ -6,20 +6,11 @@ I'm currently working on:
 {
   "Projects" {
 
-    "Red40": {
-        "https://github.com/rileyrichard/Red40"
+    "SinX-CLI": {
+        "https://github.com/BlueberryTechnologies/SinX-CLI"
     },
-
-    "MickeyDees": {
-        "https://github.com/rileyrichard/MickeyDees"
-    },
-    
-    "Amethyst": {
-        "https://github.com/rileyrichard/Amethyst"
-    },
-    
-    "SummerHeat": {
-        "https://github.com/SamWRX/SummerHeat"
+    "blueberry.dev": {
+        "https://blueberry.dev"
     }
   }
 }
