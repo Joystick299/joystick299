@@ -6,9 +6,6 @@ I'm currently working on:
 {
   "Projects" {
 
-    "SinX-CLI": {
-        "https://github.com/BlueberryTechnologies/SinX-CLI"
-    },
     "blueberry.dev": {
         "https://blueberry.dev"
     }
